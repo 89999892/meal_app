@@ -1,16 +1,34 @@
-# training1
+# Meal App - Flutter Recipe Explorer
 
-A new Flutter application.
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)](https://flutter.dev/docs)
 
-## Getting Started
+A feature-rich Flutter application for exploring meal recipes, featuring category filters, favorite management, and adaptive theme switching. Built with modern app development practices.
 
-This project is a starting point for a Flutter application.
+[![Meal App Demo](https://img.youtube.com/vi/fqLLsyIJbTc/maxresdefault.jpg)](https://youtu.be/fqLLsyIJbTc)  
+*Watch Full Demo Video*
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Recipe Categories**: Browse meals by category (Vegetarian, Quick Meals, etc.)
+- **Detailed Recipes**:
+  - Step-by-step cooking instructions
+  - Ingredient lists with quantities
+  - Cooking duration and complexity indicators
+- **Smart Filters**:
+  - Gluten-free
+  - Lactose-free
+  - Vegetarian
+  - Vegan
+- **Favorites System**: Save preferred recipes for quick access
+- **Adaptive UI**: Responsive layouts for phones and tablets
+- **Theme Switching**: Dark/Light modes with system adaptation
+- **Shopping List**: Create ingredient shopping lists
+- **Offline Support**: Basic functionality without internet
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/89999892/meal_app.git
